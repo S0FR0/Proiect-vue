@@ -1,0 +1,66 @@
+{
+  "recipes": [
+    {
+      "title": "Chocolate Chip Cookies",
+      "category": "Dessert",
+      "difficulty": "easy",
+      "prepTime": "30",
+      "servings": 24,
+      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1/2 tsp salt",
+        "1 cup butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups chocolate chips"
+      ],
+      "steps": [
+        "Preheat oven to 375F (190C)",
+        "Mix flour, baking soda and salt in a bowl",
+        "Beat butter and sugars until creamy",
+        "Add eggs and vanilla, beat well",
+        "Gradually blend in flour mixture",
+        "Stir in chocolate chips",
+        "Drop rounded tablespoons onto ungreased cookie sheets",
+        "Bake for 9-11 minutes until golden brown",
+        "Cool on baking sheet for 2 minutes",
+        "Transfer to wire rack to cool completely"
+      ],
+      "id": "d3c4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Italian"
+    },
+    {
+      "id": "2",
+      "name": "Indian"
+    },
+    {
+      "id": "3",
+      "name": "Salad"
+    },
+    {
+      "id": "4",
+      "name": "Dessert"
+    },
+    {
+      "id": "5",
+      "name": "Mexican"
+    },
+    {
+      "id": "6",
+      "name": "Asian"
+    },
+    {
+      "id": "7",
+      "name": "American"
+    }
+  ]
+}
